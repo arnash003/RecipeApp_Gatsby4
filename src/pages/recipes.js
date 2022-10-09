@@ -3,13 +3,12 @@ import Layout from '../components/Layout'
 
 
 
-const About = () => {
+const Recipes = () => {
     return (
         <Layout>
-            <h1>About Page</h1>
+            <h1>Recipe Page</h1>
         </Layout>
     )
 }
 
-
-export default About
+export default Recipes
